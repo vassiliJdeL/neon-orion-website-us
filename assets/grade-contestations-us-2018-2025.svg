@@ -58,5 +58,6 @@
 <text x="120" y="1348" fill="#BFCAD5" font-family="Source Sans 3, sans-serif" font-size="28" font-weight="500">(CCSU, CSULB, EIU, NDSU, PDX, Purdue, UCF, UND, USC, UTC).</text>
 <text x="120" y="1386" fill="#BFCAD5" font-family="Source Sans 3, sans-serif" font-size="28" font-weight="500">Methodology: Aggregated annual counts from publicly available</text>
 <text x="120" y="1424" fill="#BFCAD5" font-family="Source Sans 3, sans-serif" font-size="28" font-weight="500">committee/senate records. Compiled 2026-04-27.</text>
+<text x="1180" y="1424" text-anchor="end" fill="#BFCAD5" font-family="Source Sans 3, sans-serif" font-size="28" font-weight="500">sapheos.com</text>
 <text x="48" y="666.00" text-anchor="middle" transform="rotate(-90 48 666.00)" fill="#E6EDF3" font-family="Source Sans 3, sans-serif" font-size="28">Reported dispute cases (count)</text>
 </svg>
